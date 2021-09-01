@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Support Forum Links on Profile Page
-// @namespace    vladtimotei.ro
+// @namespace    wordpress.org
 // @version      0.1
 // @description  Adds user Support Forums links to user profile page
 // @author       Vlad Timotei
