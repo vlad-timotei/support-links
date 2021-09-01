@@ -1,6 +1,9 @@
 # Support Forum Links on Profile Page
 
-This is a userscript, used with TamperMonkey or GreaseMonkey, to add user Support Forums links to user Profile page.
+<img align="right" src="https://user-images.githubusercontent.com/65488419/131621602-34d9e172-70a5-4bb4-94fa-888d55c4ebdd.png">
+
+This is a userscript, used with TamperMonkey or GreaseMonkey, to add user Support Forums links to user Profile page on WordPress.org.
+
 Useful for moderators that have acces to Profile Pages via Slack integration.
 You'll see the following links in the right sidebar of the page:
 - Forum Profile
@@ -9,9 +12,10 @@ You'll see the following links in the right sidebar of the page:
 - Replies Written
 - Reviews Written
 
+
 ## Installation
 
-To install, open `support-links.user.js` and hit the Raw button. Or click [this link](https://github.com/vlad-timotei/support-links/raw/main/support-links.user.js).
+To install, click [this link](https://github.com/vlad-timotei/support-links/raw/main/support-links.user.js) or open `support-links.user.js` and hit the Raw button. 
 TamperMonkey or GreaseMonkey will take over from there.
 
 ## Contributing
