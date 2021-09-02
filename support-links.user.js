@@ -10,12 +10,11 @@
 
 ( function() {
 	'use strict';
-
 	const user_forums = JSON.parse( localStorage.getItem( 'wporg_forum_languages' ) || '{ "current": "global", "alternative": false }' );
+	// List of forums based on https://make.wordpress.org/support/handbook/contributing-to-the-wordpress-forums/support-forums-in-your-language/
 	const forum_languages = {
 		'global': 'Global',
 		'af':     'Afrikaans',
-		'an':     'Aragonés',
 		'frp':    'Arpitan',
 		'ast':    'Asturianu',
 		'az-tr':  'Azərbaycan Türkcəsi',
