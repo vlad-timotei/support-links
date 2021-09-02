@@ -1,6 +1,6 @@
 # Support Forum Links on Profile Page
 
-<img align="right" src="https://user-images.githubusercontent.com/65488419/131621602-34d9e172-70a5-4bb4-94fa-888d55c4ebdd.png">
+<img align="right" src="https://user-images.githubusercontent.com/65488419/131825454-7f36c0f4-4bef-4c28-ae17-623613848a61.gif">
 
 This is a userscript, used with TamperMonkey or GreaseMonkey, to add user Support Forums links to user Profile page on WordPress.org.
 
